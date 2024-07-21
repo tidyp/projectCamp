@@ -2,7 +2,7 @@
 
 ![alt text](image.png)
 
-- [Week01: 사전직무교육 1주차 회고]()
+- [Week01: 사전직무교육 1주차 회고]('https://github.com/tidyp/projectCamp/tree/main/week1')
   <!-- - [Week02: 사전직무교육 2주차 회고]() -->
   <!-- - [Week03: 사전직무교육 3주차 회고]() -->
 
